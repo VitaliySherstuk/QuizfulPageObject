@@ -1,0 +1,6 @@
+pages\LoginForm.class
+AutomationTest.class
+pages\AbstractPage.class
+steps\Steps.class
+driver\DriverSingleton.class
+pages\MainPage.class

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="9698" started-at="2016-12-27T07:11:30Z" finished-at="2016-12-27T07:11:39Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="9698" started-at="2016-12-27T07:11:30Z" finished-at="2016-12-27T07:11:39Z">
+      <class name="AutomationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:AutomationTest@21bcffb5]" name="setUp" is-config="true" duration-ms="4551" started-at="2016-12-27T10:11:30Z" finished-at="2016-12-27T10:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="aTestHomePage()[pri:0, instance:AutomationTest@21bcffb5]" name="aTestHomePage" duration-ms="2338" started-at="2016-12-27T10:11:34Z" finished-at="2016-12-27T10:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTestHomePage -->
+        <test-method status="PASS" signature="bTestSignIn()[pri:0, instance:AutomationTest@21bcffb5]" name="bTestSignIn" duration-ms="494" started-at="2016-12-27T10:11:36Z" finished-at="2016-12-27T10:11:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTestSignIn -->
+        <test-method status="PASS" signature="cTestCanLoginQuizful()[pri:0, instance:AutomationTest@21bcffb5]" name="cTestCanLoginQuizful" duration-ms="1823" started-at="2016-12-27T10:11:37Z" finished-at="2016-12-27T10:11:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cTestCanLoginQuizful -->
+        <test-method status="PASS" signature="stopBrowser()[pri:0, instance:AutomationTest@21bcffb5]" name="stopBrowser" is-config="true" duration-ms="488" started-at="2016-12-27T10:11:39Z" finished-at="2016-12-27T10:11:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopBrowser -->
+      </class> <!-- AutomationTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
